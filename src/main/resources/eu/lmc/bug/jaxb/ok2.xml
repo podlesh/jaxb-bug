@@ -1,0 +1,6 @@
+<bug>
+    <A attr1="something"/>
+    <B>
+        <text>anything</text>
+    </B>
+</bug>

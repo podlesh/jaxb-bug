@@ -1,0 +1,6 @@
+<bug xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <A attr1="something"/>
+    <B xsi:nil="true">
+        <text>anything</text>
+    </B>
+</bug>

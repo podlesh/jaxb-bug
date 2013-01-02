@@ -1,0 +1,6 @@
+<bug xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <A xsi:nil="true"/>
+    <B>
+        <text>This is non-empty text in non-empty element</text>
+    </B>
+</bug>

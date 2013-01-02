@@ -1,0 +1,5 @@
+<bug xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <A xsi:nil="true"/>
+    <B xsi:nil="true">
+    </B>
+</bug>
