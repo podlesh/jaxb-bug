@@ -1,0 +1,15 @@
+target
+.idea
+*.ipr
+*.iws
+*.iml
+.classpath
+.project
+*~
+*.swp
+.settings
+/nbactions.xml
+.tomcatplugin
+.#webclasspath
+test-output
+atlassian-ide-plugin.xml
